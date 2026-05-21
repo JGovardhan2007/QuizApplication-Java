@@ -68,9 +68,9 @@ Below are the visual state flows captured from the active application.
 
 | Welcome Interface | Active Gameplay |
 | :---: | :---: |
-| ![Welcome Interface](screenshots/welcome_interface.png) <br> *Figure 6.1* | ![Active Gameplay](screenshots/active_gameplay.png) <br> *Figure 6.2* |
+| ![Welcome Interface](1.png) <br> *Figure 6.1* | ![Active Gameplay](2.png) <br> *Figure 6.2* |
 
 | Name Input Dialog | Updated Scoreboard |
 | :---: | :---: |
-| ![Name Input Dialog](screenshots/name_input.png) <br> *Figure 6.3* | ![Updated Scoreboard](screenshots/updated_scoreboard.png) <br> *Figure 6.4* |
+| ![Name Input Dialog](3.png) <br> *Figure 6.3* | ![Updated Scoreboard](4.png) <br> *Figure 6.4* |
 
